@@ -1,0 +1,36 @@
+{
+  "name": "polis-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ek0ms/polis-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ek0ms/polis-news/issues"
+  },
+  "homepage": "https://github.com/ek0ms/polis-news#readme",
+  "devDependencies": {
+    "concurrently": "^3.5.1",
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0",
+    "shortid": "^2.2.8"
+  }
+}
