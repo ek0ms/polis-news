@@ -43,7 +43,7 @@ passport.use(
 
       db
         .get('users')
-        .push({ googleId: profile.id, id: shortid.generate() })
+        .push({ googleId: profile.id, id: shortid.generate(), savedArticles: [] })
         .write();
 
       const newUser = db

@@ -1,0 +1,29 @@
+.articles-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+
+  .article-card-container {
+    max-width: 600px;
+    padding: 0.5em 0 1rem 0;
+
+    .card {
+      margin: 0;
+      height: 100%;
+
+      .card-image {
+        text-align: left;
+      }
+
+      .card-content {
+        min-height: 122px;
+        display: flex;
+        flex-direction: column;
+
+        p {
+          margin: auto;
+        }
+      }
+    }
+  }
+}

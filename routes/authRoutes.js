@@ -9,7 +9,7 @@ router.get(
 );
 
 router.get('/google/callback', passport.authenticate('google'), (req, res) => {
-  res.send('Success!');
+  res.redirect('/');
 });
 
 module.exports = router;

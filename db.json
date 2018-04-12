@@ -2,7 +2,36 @@
   "users": [
     {
       "googleId": "113241838934370869192",
-      "id": "r1U-tKYsz"
+      "id": "BJ4D842jf",
+      "savedArticles": [
+        {
+          "author": "Timothy Rapp",
+          "published": "2018-04-12T14:14:17Z",
+          "title": "Knicks Rumors: Jay Wright a HC Target for NY After Jeff Hornacek Firing",
+          "url": "http://bleacherreport.com/articles/2770127-knicks-rumors-jay-wright-a-hc-target-for-ny-after-jeff-hornacek-firing",
+          "img": "https://img.bleacherreport.net/img/images/photos/003/735/236/hi-res-f259bf27dfd1736037df82cbe12e06dd_crop_exact.jpg?w=1200&h=1200&q=75",
+          "description": "The  New York Knicks , who  fired  Jeff Hornacek on Thursday morning, are reportedly interested in meeting with Villanova men's basketball head coach  Jay Wright , according to  Frank Isola  of the  New York Daily News ...",
+          "id": "S19SCbTjf"
+        },
+        {
+          "author": "Kyle Orland",
+          "published": "2018-04-12T15:09:27+00:00",
+          "title": "Cheater! Billy Mitchell stripped of scores, banned from premiere scoreboard",
+          "url": "https://arstechnica.com/gaming/2018/04/premiere-game-scoreboard-bans-billy-mitchell-in-donkey-kong-cheating-scandal/",
+          "img": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/mitchellcry-760x380.jpg",
+          "description": "Full investigation shows King of Kong star used emulators, not real hardware.",
+          "id": "rJk8CWpjG"
+        },
+        {
+          "author": "Cyrus Farivar",
+          "published": "2018-04-12T14:55:06+00:00",
+          "title": "Facebook data transfers to be examined by EU court, Irish judge rules",
+          "url": "https://arstechnica.com/tech-policy/2018/04/facebook-data-transfers-to-be-examined-by-eu-court-irish-judge-rules/",
+          "img": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/50.evf_max_stack-640x215.jpg",
+          "description": "Activist: \"US law requires Facebook to help the NSA… and EU law prohibits just that.\"",
+          "id": "Sylw0bTiz"
+        }
+      ]
     }
   ]
 }

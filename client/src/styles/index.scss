@@ -1,0 +1,22 @@
+// Color
+@import 'materialize-css/color-variables';
+@import 'materialize-css/color-classes';
+
+// Variables;
+@import 'materialize-css/variables';
+
+@import 'materialize-css/global';
+@import 'materialize-css/cards';
+@import 'materialize-css/navbar';
+@import 'materialize-css/buttons';
+@import 'materialize-css/waves';
+@import 'materialize-css/icons-material-design';
+
+@import 'SourcePage';
+@import 'ArticlePage';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
